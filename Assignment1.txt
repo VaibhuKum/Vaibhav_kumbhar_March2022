@@ -1,0 +1,184 @@
+Question 1
+
+step1- start a program
+step2- take a number as input
+step3- if number is divisible by 2 
+step4- number is even
+step5- if number is not divisible by 2
+step6- number is odd
+step7- display number is odd or even
+step8- end program
+
+---------------------------------------------------------
+Question 2
+
+step1- strat program
+step2- take a number from user
+step3- calculate a factorial of given number
+step4- display factorial of number
+step5- end program
+
+-----------------------------------------------------------
+Question 3
+
+1- Start
+2- Declare a variable to store a number.
+3- Ask the user to initialize the number.
+4- Check whether it is possible to calculate the factorial or not.
+5- If the number is greater than and equal to 0, then call a recursive 
+	function to calculate the factorial of the entered number.
+6- If the number is lesser than 0, print the message that it is not possible 
+	to calculate the factorial.
+7- If the entered number is 0 or 1, then return 1.
+8- If the entered number is other than 0 or 1, then calculate the factorial by 
+	recursively calling the same method.
+9- Return the result.
+10- Print the factorial of the entered number.
+11- Stop
+-----------------------------------------------------------------------------------------------------------------
+Question 4
+
+1- start
+2- take two variables a, b
+3- a= a+b
+	b= a-b
+	a= a-b
+4- print value of a & b
+5- stop
+
+-------------------------------------------------------------------------------------------------------------
+Question 5
+
+step1- start program
+step2- take a number from user
+step3- cheak the number is positive or negative
+step4- if positive
+step5- display number is positive
+step6- if negative
+step7- display number is negative
+step8- end program
+-----------------------------------------------------------------------------------------------------
+
+Question 6
+
+step1- start program
+step2- take a year from user
+step3- year put in formula = year%4
+step4- if remainder is zero
+step5- display year is leap
+step6- if remainder is not zero
+step7- display year is not leap
+step8- end program
+		
+----------------------------------------------------------------------------------------
+Question 7
+
+step1- start program
+step2- put number 1
+step3- put number 2
+step4- put number 3
+step5- put number 4
+step6- put number 5
+step7- put number 6
+step8- put number 7
+step9- put number 8
+step10- put number 9
+step11- put number 10
+step12- display all numbers
+step13- end program
+------------------------------------------------------------------------
+Question 8
+
+step1- start program
+step2- take a number from user
+step3- print a digits of given number
+step4- end program
+-----------------------------------------------------------------------
+Question 9
+
+step1- start program
+step2- take a number from user
+step3- find the factors of the number
+step4- print all factors of number
+step5- display numbers
+step6- end program
+------------------------------------------------------------------------
+Question 10
+
+1- start 
+2- take two numbers from user
+3- make a addition of this numbers
+4- print answer of addition 
+5- display value
+6- end
+----------------------------------------------------------------------------
+Question 11
+
+1- start
+2- declear three variabls  a b c
+3- compare a with b and c if a is less then b and c then a is smallest among three
+4- compare b with a and c if b is less then a and c then b is smallest among three
+5- compare c with a and b if c is less then a and b then c is smallest among three
+6- display the smallest variable among these three
+7- end 
+-----------------------------------------------------------------------------------------
+
+Question 12
+
+1- start 
+2- take two numbers from user
+3- make a addition of this without using arithmatic operator
+4- print answer of addition 
+5- display value
+6- end
+------------------------------------------------------------------------------------------
+
+Question 14
+
+1- start 
+2- take two numbers from user
+3- take GCD of these two numbers
+4- print GCD value
+5- display value
+6- end
+------------------------------------------------------------------------------------------
+Question 15
+
+1- start 
+2- take two numbers from user x and y
+3- find GCD of x and y 
+4- if x ==0 
+5- display y
+6- to find LCM use formula   x / GCD(x, y)) * y
+7- print LCM of x and y
+8- display value
+9- end
+-----------------------------------------------------------------------------------------
+Question 16
+
+1- start
+2- take numbers from user
+3- take the common prime factors and then the rest of the ones and multiply them 
+4- the multiplication of all prime factors is our LCM
+5- print the value of LCM
+6- display value
+7- end
+-------------------------------------------------------------------------------
+
+Question 19
+
+1- start
+2- take first even number 2
+3- start divide numbers from 2 and take a number divisible by 2
+4- print all numbers divided by 2
+5- display numbers
+6- end
+--------------------------------------------------------------------------------
+Question 20
+
+1- start
+2- take first even number 2
+3- start divide numbers from 2 and take a number divisible by 2
+4- print all numbers divided by 2
+5- display numbers
+6- end
